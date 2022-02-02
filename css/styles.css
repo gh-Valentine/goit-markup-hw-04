@@ -279,7 +279,7 @@ img {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url("images/Main/Image_baner.jpg");
+    url("/images/Main/Image_baner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 37.5rem;
